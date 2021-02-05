@@ -1,0 +1,38 @@
+
+#time{
+    font-size: 70px;
+}
+.target{
+    background-color: white;
+    width: 800px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    
+}
+#boton-start{
+    text-align: center;
+    border-radius: 20px;
+    width: 200px;
+}
+#boton-stop{
+    text-align: center;
+    border-radius: 20px;
+    width: 200px;
+}
+#boton-reset{
+    text-align: center;
+    border-radius: 20px;
+    width: 200px;
+}
+
+#boton-start:hover{
+background-color: rgb(211, 211, 211);
+}
+
+#boton-stop:hover{
+background-color: rgb(211, 211, 211);
+}
+
+#boton-reset:hover{
+background-color: rgb(211, 211, 211);
+}
